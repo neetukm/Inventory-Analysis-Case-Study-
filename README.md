@@ -31,11 +31,6 @@ This project is an interactive Power BI dashboard designed to analyze the invent
 **SQL Queries for Data Extraction**: Structured queries to retrieve, filter, and aggregate data efficiently.
 
 # 📁 Project Files
-# 📂 **'Inventory_Project.ipynb'** – Jupyter Notebook containing Python scripts for data cleaning, preprocessing, and exploratory data analysis.
-
-# 📂 **'Inventory_Project.sql'** – SQL scripts to extract, process, and structure the dataset for visualization.
-
-# 📂 **'Inventory_Dashboard.pbix'** – The Power BI dashboard file containing all visualizations and reports.
 
 # 📂 **'Dashboard_Preview.png'** – A preview image of the dashboard.![Screenshot (2)](https://github.com/user-attachments/assets/c0502a41-9fe7-4124-be0a-9c8b50ce96b4)
 
